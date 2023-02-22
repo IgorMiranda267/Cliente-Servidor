@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Estudos\\Cliente-Servidor\\Cliente-Servidor\\Cliente-Servidor.csproj": {}
+  },
+  "projects": {
+    "E:\\Estudos\\Cliente-Servidor\\Cliente-Servidor\\Cliente-Servidor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Estudos\\Cliente-Servidor\\Cliente-Servidor\\Cliente-Servidor.csproj",
+        "projectName": "Cliente-Servidor",
+        "projectPath": "E:\\Estudos\\Cliente-Servidor\\Cliente-Servidor\\Cliente-Servidor.csproj",
+        "packagesPath": "C:\\Users\\igor.miranda_cmtecno\\.nuget\\packages\\",
+        "outputPath": "E:\\Estudos\\Cliente-Servidor\\Cliente-Servidor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igor.miranda_cmtecno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/cmtecnologia/auth/f65b0375-9674-41e2-81f1-3024fedead90/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\Estudos\Cliente\Cliente\bin\Debug\net6.0\Cliente.exe
+E:\Estudos\Cliente\Cliente\bin\Debug\net6.0\Cliente.deps.json
+E:\Estudos\Cliente\Cliente\bin\Debug\net6.0\Cliente.runtimeconfig.json
+E:\Estudos\Cliente\Cliente\bin\Debug\net6.0\Cliente.dll
+E:\Estudos\Cliente\Cliente\bin\Debug\net6.0\Cliente.pdb
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\Cliente.csproj.AssemblyReference.cache
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfoInputs.cache
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfo.cs
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\Cliente.csproj.CoreCompileInputs.cache
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\Cliente.dll
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\refint\Cliente.dll
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\Cliente.pdb
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\Cliente.genruntimeconfig.cache
+E:\Estudos\Cliente\Cliente\obj\Debug\net6.0\ref\Cliente.dll

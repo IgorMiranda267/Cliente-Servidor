@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cliente-Servidor/1.0.0": {
+        "runtime": {
+          "Cliente-Servidor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cliente-Servidor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

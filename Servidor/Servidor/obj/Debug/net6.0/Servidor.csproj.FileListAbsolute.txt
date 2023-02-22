@@ -1,0 +1,15 @@
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\bin\Debug\net6.0\Servidor.exe
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\bin\Debug\net6.0\Servidor.deps.json
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\bin\Debug\net6.0\Servidor.runtimeconfig.json
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\bin\Debug\net6.0\Servidor.dll
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\bin\Debug\net6.0\Servidor.pdb
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\Servidor.csproj.AssemblyReference.cache
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\Servidor.AssemblyInfoInputs.cache
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\Servidor.AssemblyInfo.cs
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\Servidor.csproj.CoreCompileInputs.cache
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\Servidor.dll
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\refint\Servidor.dll
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\Servidor.pdb
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\Servidor.genruntimeconfig.cache
+E:\Estudos\Cliente-Servidor\Cliente-Servidor\obj\Debug\net6.0\ref\Servidor.dll
